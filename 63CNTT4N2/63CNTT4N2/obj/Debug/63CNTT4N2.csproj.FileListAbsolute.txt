@@ -77,3 +77,7 @@ C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.C
 C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CopyComplete
 C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\obj\Debug\63CNTT4N2.dll
 C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\obj\Debug\63CNTT4N2.pdb
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\bin\EntityFramework.dll
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\bin\EntityFramework.SqlServer.dll
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\bin\EntityFramework.xml
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\63CNTT4N2\bin\EntityFramework.SqlServer.xml

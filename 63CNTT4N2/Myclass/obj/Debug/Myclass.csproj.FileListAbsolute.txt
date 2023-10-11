@@ -1,0 +1,12 @@
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\Myclass.dll.config
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\Myclass.dll
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\Myclass.pdb
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\EntityFramework.dll
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\EntityFramework.xml
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\obj\Debug\Myclass.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\obj\Debug\Myclass.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\obj\Debug\Myclass.csproj.CopyComplete
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\obj\Debug\Myclass.dll
+C:\Users\dell\Documents\UDW\UDW\63CNTT4N2\Myclass\obj\Debug\Myclass.pdb
